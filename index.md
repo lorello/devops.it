@@ -35,7 +35,7 @@ in generale per ogni tipo di organizzazione: sicuramente la presenza
 di reparti dedicati allo sviluppo e alla gestione dell'IT e' 
 solitamente piu' frequente in aziende di medio-grandi dimensioni,
 ma questo non esclude che anche in aziende con 2-3 sviluppatori e
-un sistemista part-time.
+un sistemista part-time l'adozione di questo tipo di cultura porti benefici.
 
 ### Si tratta di adottare il tool X?
 
@@ -63,7 +63,7 @@ Spesso si fa riferimento a _DevOps engineer_ indicando in realtà figure di svil
 
 La realtà è che in aziende dove non c'era una figura di sistemista, aggiungere DevOps al proprio vocabolario non aiuterà a migliorare i risultati dell'IT aziendale. Allo stesso modo chiamare DevOps il sistemista o team di sistemisti che lavora in modo isolato rispetto allo sviluppo del prodotto, non cambierà la qualità del servizio erogato, anche se si adottano tutti i tool con il "bollino" giusto.
 
-Per introdurre un cambiamento sensibile è necessario sposare i principi dello sviluppo _Agile_, del _Lean Management_, della cultura aperta e della conoscenza condivisa: per certi versi DevOps si può considerare una vera e propria estensione dell'approccio Agile allo sviluppo di Software. In questo modo le competenze presenti in azienda tra sviluppatori, sistemisti o figure che hanno un mix di queste competenze possono essere messe a frutto ottenendo un beneficio misurabile
+Per introdurre un cambiamento sensibile è necessario sposare i principi dello sviluppo _Agile_, del _Lean Management_, della cultura aperta e della conoscenza condivisa: per certi versi DevOps si può considerare una vera e propria estensione dell'approccio Agile allo sviluppo di Software. In questo modo le competenze presenti in azienda tra sviluppatori, sistemisti o figure che hanno un mix di queste competenze possono essere messe a frutto ottenendo un beneficio misurabile.
 
 ## Approfondimenti
 
