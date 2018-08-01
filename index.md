@@ -56,8 +56,8 @@ adottati per svolgere il proprio lavoro.
 ### Si tratta di assumere una figura DevOps o creare un team devops?
 
 L'origine del termine è legato all'abbattimento di barriere
-tra team distinti, quindi che si possa ridurre l'approccio DevOps alla creazione
-di un nuovo team di un nuovo profilo professionale che prima non esisteva è troppo riduttivo.
+tra team distinti, quindi è riduttivo pensare che l'approccio DevOps si risolva nella creazione 
+di un nuovo team o nell'assunzione di un nuovo profilo professionale che prima non esisteva.
 
 Spesso si fa riferimento a _DevOps engineer_ indicando in realtà figure di sviluppatori che, al contrario di quanto accadeva in precedenza, hanno accessi amministrativi e prestano parte del loro tempo ad attività sistematiche su sistemi di produzione. Oppure, al contrario, ci si riferisce a _DevOps engineer_ indicando sistemisti che utilizzano risorse IT in affitto nel cloud, piuttosto che sistemi fisici in un datacenter di proprietà.
 
