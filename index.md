@@ -20,7 +20,7 @@ e' il miglioramento in termini di qualità e sforzo necessario delle proprie
 attivita' di sviluppo, rilascio, aggiornamento e recupero in caso di guasti.
 
 ### Perche' "movimento"?
-Il termine DevOps nasce intorno al 2008 nell'ambito del movimento Agile
+Il termine DevOps nasce intorno al [2008](http://www.jedi.be/blog/2008/10/09/agile-2008-toronto-agile-infrastructure-and-operations-presentation/) nell'ambito del movimento Agile
 e si diffonde all'interno
 di una "comunità di pratica" che lavora su servizi Internet
 con un approccio innovativo, abbattendo il muro che solitamente, 
