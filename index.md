@@ -20,13 +20,15 @@ e' il miglioramento in termini di qualità e sforzo necessario delle proprie
 attivita' di sviluppo, rilascio, aggiornamento e recupero in caso di guasti.
 
 ### Perche' "movimento"?
-Il termine DevOps nasce intorno al 2008 e si diffonde all'interno
+Il termine DevOps nasce intorno al 2008 nell'ambito del movimento Agile
+e si diffonde all'interno
 di una "comunità di pratica" che lavora su servizi Internet
 con un approccio innovativo, abbattendo il muro che solitamente, 
 soprattuto nelle organizzazioni medio-grandi, separa sistemisti
-e sviluppatori. Questo gruppo di persone da vita a una intensa
+e sviluppatori. Questo gruppo di persone, tra cui è indispensabile citare 
+[Patrick Debois](https://twitter.com/patrickdebois) da vita a una intensa
 attivita' di divulgazione del proprio approccio, mediante eventi
-pubblici e la pubblicazione di libri.
+pubblici - i _DevOpsDays_ - e la pubblicazione di libri.
 
 ### Quindi e' una cosa da grandi aziende? E i piccoli non __devoppano__?
 
