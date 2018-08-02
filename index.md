@@ -1,22 +1,24 @@
 # DevOps
 
-Contrazione inglese di _development_, "sviluppo", e _operations_, intesta come gestione dell'ambiente di produzione di un servizio/prodotto Software.
+Contrazione inglese di _development_, "sviluppo", e _operations_, intesta come gestione delle risorse IT di un servizio/prodotto Software.
 
 ## Cosa significa DevOps?
 
 Il termine indica una **cultura** e un insieme di **pratiche**
 che pongono al centro dell'attenzione la collaborazione tra
 gli sviluppatori di software e le altre figure dell'IT,
-i sistemisti in generale. Solitamente l'approccio DevOps 
+i sistemisti in generale. 
+
+Solitamente l'approccio DevOps 
 alla gestione dell'IT viene contrapposto allo storico approccio
 usato in molte organizzazioni in cui lo sviluppo e la produzione
-sono nettamente separati (__siloed__), sia perché le persone appartengono
+sono nettamente separati (__divisi in Silos__), sia perché le persone appartengono
 a gruppi di lavoro nettamente separati, sia
 per i tempi che intercorrono tra lo sviluppo di un componente
 e la sua messa in produzione.
 
 Lo **scopo** che un'organizzazione persegue adottando questo approccio
-e' il miglioramento in termini di qualità e sforzo necessario delle proprie 
+e' il miglioramento in termini di qualità e costi delle proprie 
 attivita' di sviluppo, rilascio, aggiornamento e recupero in caso di guasti.
 
 ### Perche' "movimento"?
