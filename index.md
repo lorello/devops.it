@@ -41,6 +41,23 @@ solitamente piu' frequente in aziende di medio-grandi dimensioni,
 ma questo non esclude che anche in aziende con 2-3 sviluppatori e
 un sistemista part-time l'adozione di questo tipo di cultura porti benefici.
 
+### In pratica da dove si inizia?
+
+Il primo passo è la **condivisione della responsabilità**: la gestione degli ambienti
+di produzione non può essere separata dallo sviluppo e ancora prima dalla progettazione.
+Affinché ciò che accade in produzione possa contribuire alle scelte progettuali, 
+è necessario che la responsabilità degli ambienti di produzione sia allargata anche al 
+team di sviluppo: questo faciliterà gli sviluppatori a incrementare la propria comprensione
+del sistema e a sensibilizzarli sulle problematiche operative. I benefici che ci si 
+possono aspettare sono il miglioramento del processo di deploy, la qualità del monitoraggio,
+la qualità dei log prodotti.
+Allo stesso tempo i sistemisti devono essere chiamati a liberare il loro tempo
+per partecipare alle attività di progettazione da un lato e per supportare piu' attivamente 
+lo sviluppo dall'altro, creando ambienti di sviluppo piu' vicini alla produzione e migliorando
+la qualità dei test. L'**automazione** diventerà il loro migliore alleato, li aiuterà a 
+liberare il loro tempo e li spingerà ad adottare pratiche tipiche dei team di sviluppo 
+(descriere infrastruttura come codice, versionamento del codice, test automatici dell'infrastruttura).
+
 ### Si tratta di adottare il tool X?
 
 Uno dei componenti cardine di questo approccio e' l'automazione
